@@ -1,0 +1,15 @@
+﻿Сборка начата 21.06.2014 8:39:20.
+     1>Проект "D:\KPI\Semester 2\Object Oriented Programming\Kursova Sadovets\Accounts\Accounts\Accounts.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Main.cpp
+         Main.cpp
+     1>d:\kpi\semester 2\object oriented programming\kursova sadovets\accounts\accounts\main.cpp(67): warning C4018: <: несоответствие типов со знаком и без знака
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\KPI\Semester 2\Object Oriented Programming\Kursova Sadovets\Accounts\Debug\Accounts.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\KPI\Semester 2\Object Oriented Programming\Kursova Sadovets\Accounts\Debug\Accounts.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\KPI\Semester 2\Object Oriented Programming\Kursova Sadovets\Accounts\Debug\Accounts.lib" /MACHINE:X86 Debug\Accounts.obj
+         Debug\Main.obj
+         Accounts.vcxproj -> D:\KPI\Semester 2\Object Oriented Programming\Kursova Sadovets\Accounts\Debug\Accounts.exe
+     1>Сборка проекта "D:\KPI\Semester 2\Object Oriented Programming\Kursova Sadovets\Accounts\Accounts\Accounts.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:01.06
